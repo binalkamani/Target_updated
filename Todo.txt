@@ -1,0 +1,6 @@
+To do ::
+
+1) UART send function
+2) Compute Ball function
+3) CPU Utilization (question in project pdf)
+4) check timer1Binthandler - whether it is required or not
